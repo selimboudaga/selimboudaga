@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=selimboudaga&label=Profile%20views&color=0e75b6&style=flat" alt="selimboudaga" /> </p>
 
-- 🌱 I’m currently learning **Reactjs,Threejs**
+- 🌱 I’m currently learning **Reactjs,Nextjs**
 
 - 💬 Ask me about **Reactjs,java,python**
 
